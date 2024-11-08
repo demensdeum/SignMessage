@@ -1,0 +1,12 @@
+{
+    "manifestVersion" : 1,
+    "sdkVersion" : "1.0.0",
+    "runtime" : "JavaScript",
+    "title" : "Sign Message",
+    "info" : "Extension that allows to sign messages for Telegram",
+    "buildVersion" : "1.0.0",
+    "license" : "MIT",
+    "permissions" : [
+        "outputMessages"
+    ]
+}
