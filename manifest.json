@@ -6,9 +6,6 @@
     "info" : "Extension that allows to sign messages for Telegram",
     "buildVersion" : "1.0.0",
     "license" : "MIT",
-    "permissions" : [
-        "outputMessages"
-    ],
     "access" : [
         "Output Messages"
     ],
