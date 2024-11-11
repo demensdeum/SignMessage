@@ -9,6 +9,9 @@
     "permissions" : [
         "outputMessages"
     ],
+    "access" : [
+        "Output Messages"
+    ],
     "executables" : [
         "SignMessageTransfomer.js",
         "main.js"
