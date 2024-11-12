@@ -10,7 +10,7 @@
         "Output Messages"
     ],
     "executables" : [
-        "SignMessageTransfomer.js",
+        "SignMessageTransformer.js",
         "main.js"
     ]
 }
